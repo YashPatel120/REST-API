@@ -16,3 +16,6 @@ You can now test the API endpoints as before, using a web browser or cURL comman
 
    ->To retrieve the bank list, open http://localhost:3000/banks in a web browser or send a GET request using cURL:
    ->To retrieve branch details for a specific bank and branch, open http://localhost:3000/banks/{bank_id}/branches/{branch_id} in a web browser, replacing {bank_id}      and {branch_id} with the actual identifiers, or send a GET request using cURL:
+
+
+Time taken for completing this assignment is 1 day.
